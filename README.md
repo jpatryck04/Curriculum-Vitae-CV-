@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Desarrollo de Software  
 💻 Apasionado por la programación, la tecnología y el aprendizaje continuo  
-🔐 Interesado en Ciberseguridad, Minería de Datos y Auditoría Informática  
+🔐 Apasionado por el desarrollo de aplicaciones móviles y desarrollo web, con interés en ampliar continuamente mis conocimientos en el ámbito de la tecnología.  
 
 
 🚀 Tecnologías y herramientas que utilizo
